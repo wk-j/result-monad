@@ -3,8 +3,6 @@ using Xunit;
 using ResultMonad;
 
 namespace ResultMonad.Tests {
-
-
     public class Tests {
 
         private Result<int> TryAddTwo(int a) {
